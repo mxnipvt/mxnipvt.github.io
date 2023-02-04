@@ -3,7 +3,7 @@
     <head>
         mxni.pvtt
     </head>
-    <body style="background:url('MAGIC.jpg');"> 
+    <body style="background:url('![galaxy](https://user-images.githubusercontent.com/124420815/216768878-a652b0d7-b95e-495b-87b9-798b96b4a09c.gif)');"> 
         <h1>ISCKON ABIDS HYDERABAD</h1>
         <h2>Hare krishna:</h2>
         <nav>JAI SHREE KRISHNA</nav>
