@@ -1,38 +1,25 @@
 
+<!DOCTYPE html>
 <html>
-    <head>
-        mxni.pvtt
-    </head>
-    <body style="background:url('RED.jpg');"> 
-        <h1>ISCKON ABIDS HYDERABAD</h1>
-        <h2>Hare krishna:</h2>
-        <nav>JAI SHREE KRISHNA</nav>
-        <table> 
-            <thead>
-                <th>ORGANIZATION NAME
-                </th>
-                <th>FOUNDER</th>
-                <th>YEAR ESTABLISHED</th>
-               
-            </thead>
-            <tbody>
-                <tr>
-                    <td>ISCKON
-                    </td>
-                    <td> A. C. Bhaktivedanta Swami Prabhupada</td>
-                    
-                    <td>1965</td>
-                    
-                </tr>
-            </tbody>
-        </table> 
-             <img src="SUPER.jpg" alt="mani" width="200">
-         <img src="MAGIC.jpg" alt="krishna" width="350">
-         <img src="ISCKON1 (2).jpg" alt="mayya" width="200">
-        
-        <footer id="producer">
-       <p id="f-txt"> webpage by Krishna Devotee (Manikiran).</p>
+
+<head>
+    <meta name="viewport" content="width=device-width, intial-scale=1.0">
+    <title> Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+   <script src="main.js"></script>
+    <nav> HOMIES </nav>
+    <div class="profile-box">
+        <a href="https://www.instagram.com/sushanth_bathini/" class="a-foto"> <img class="foto-button" src="red.jpg" style="border-radius: 9px;"></a>
+        <a href="https://www.instagram.com/qb_________________/" class="a-foto"> <img class="foto-button" src="kalyan.jpg" style="border-radius: 9px;"></a>
+        <a href="https://www.instagram.com/_manikiran_31/" class="a-foto"> <img class="foto-button" src="mani.jpg" style="border-radius: 9px;"></a>
+        <a href="https://www.instagram.com/d_a_t_t_a_07/" class="a-foto"> <img class="foto-button" src="Shiva.jpg" style="border-radius: 9px;"></a>
+    </div>
+    <footer id="producer">
+       <p id="f-txt"> A [QB] Broadcast.</p>
     </footer>
-         
-            </body>
+    
+</body>
 </html>
