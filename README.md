@@ -27,7 +27,7 @@
          <img src="MAGIC.jpg" alt="krishna" width="350">
          <img src="ISCKON1 (2).jpg" alt="mayya" width="200">
         <footer id="producer">
-       <p id="f-txt"> website by Krishna Devotee </p>
+       <p id="f-txt"> webpage by Krishna Devotee (Manikiran) </p>
     </footer>
          
             </body>
