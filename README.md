@@ -14,7 +14,7 @@
         <a href="https://www.instagram.com/sushanth_bathini/" class="a-foto"> <img class="foto-button" src="pink.jpg" style="border-radius: 9px;"></a>
         <a href="https://www.instagram.com/qb_________________/" class="a-foto"> <img class="foto-button" src="kalyan.jpg" style="border-radius: 9px;"></a>
         <a href="https://www.instagram.com/_manikiran_31/" class="a-foto"> <img class="foto-button" src="mani.jpg" style="border-radius: 9px;"></a>
-        <a href="https://www.instagram.com/d_a_t_t_a_07/" class="a-foto"> <img class="foto-button" src="yellow.jpg" style="border-radius: 9px;"></a>
+        <a href="https://www.instagram.com/d_a_t_t_a_07/" class="a-foto"> <img class="foto-button" src="yellow(2).jpg" style="border-radius: 9px;"></a>
     </div>
     <footer id="producer">
        <p id="f-txt"> A [QB] Broadcast.</p>
