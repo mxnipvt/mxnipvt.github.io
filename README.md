@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>mxni.pvtt</title>
+        mxni.pvtt
     </head>
     <body>
         <h1>ISCKON ABIDS HYDERABAD</h1>
