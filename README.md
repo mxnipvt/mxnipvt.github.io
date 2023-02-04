@@ -1,6 +1,4 @@
 
-<!DOCTYPE html>
-<html>
 
  <body style="background:url('love.gif');">
     <meta name="viewport" content="width=device-width, intial-scale=1.0">
@@ -9,7 +7,7 @@
 </head>
 
 <body>
-    <nav> HOMIES </nav>
+    <nav> <h1>HOMIES</h1> </nav>
     <div class="profile-box">
         <a href="https://www.instagram.com/sushanth_bathini/" class="a-foto"> <img class="foto-button" src="pok.jpg" style="border-radius: 9px;"></a>
         <a href="https://www.instagram.com/qb_________________/" class="a-foto"> <img class="foto-button" src="qb.jpg" style="border-radius: 9px;"></a>
