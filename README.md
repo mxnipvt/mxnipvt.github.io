@@ -13,7 +13,7 @@
                 </th>
                 <th>FOUNDER</th>
                 <th>YEAR ESTABLISHED</th>
-                <th> TELANGANA MODEL </th>
+               
             </thead>
             <tbody>
                 <tr>
@@ -22,7 +22,7 @@
                     <td> A. C. Bhaktivedanta Swami Prabhupada</td>
                     
                     <td>1965</td>
-                    <td>SUSHANTH BHAI </td>
+                    
                 </tr>
             </tbody>
         </table> 
