@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <head>
         mxni.pvtt
@@ -23,10 +23,9 @@
                 </tr>
             </tbody>
         </table> 
-     <a href="https://iskconhyderabad.com/"</a>
-         <img src="SUPER.jpg" alt="mani" width="200">
+             <img src="SUPER.jpg" alt="mani" width="200">
          <img src="MAGIC.jpg" alt="krishna" width="350">
          <img src="ISCKON1 (2).jpg" alt="mayya" width="200">
-         <video src="" video>
+         
             </body>
 </html>
