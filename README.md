@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+ <body style="background:url('love.gif');">
     <meta name="viewport" content="width=device-width, intial-scale=1.0">
     <title> Home</title>
     <link rel="stylesheet" href="style.css">
