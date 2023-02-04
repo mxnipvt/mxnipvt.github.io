@@ -13,6 +13,7 @@
                 </th>
                 <th>FOUNDER</th>
                 <th>YEAR ESTABLISHED</th>
+                <th>MODEL </th>
             </thead>
             <tbody>
                 <tr>
@@ -21,6 +22,7 @@
                     <td> A. C. Bhaktivedanta Swami Prabhupada</td>
                     
                     <td>1965</td>
+                    <td>SUSHANTH </td>
                 </tr>
             </tbody>
         </table> 
