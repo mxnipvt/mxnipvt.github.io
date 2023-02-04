@@ -3,7 +3,7 @@
     <head>
         mxni.pvtt
     </head>
-    <body style="background:url('mnb.gif');"> 
+    <body style="background:url('RED.jpg');"> 
         <h1>ISCKON ABIDS HYDERABAD</h1>
         <h2>Hare krishna:</h2>
         <nav>JAI SHREE KRISHNA</nav>
