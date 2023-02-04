@@ -9,7 +9,6 @@
 </head>
 
 <body>
-   <script src="main.js"></script>
     <nav> HOMIES </nav>
     <div class="profile-box">
         <a href="https://www.instagram.com/sushanth_bathini/" class="a-foto"> <img class="foto-button" src="red.jpg" style="border-radius: 9px;"></a>
