@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css">
     <style>
     h1 {
-    color:blue;
+    color:white;
     text-align: center;
     }
     </style>
