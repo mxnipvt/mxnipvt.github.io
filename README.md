@@ -2,7 +2,9 @@
     <head>
         mxni.pvtt
     </head>
-    <body style="background:url('pot.gif');"> 
+    <body style="background:url('pot.gif');">
+width: 500px;
+height: 400px;
         <h1>ISCKON ABIDS HYDERABAD</h1>
         <h2>Hare krishna:</h2>
         <nav>JAI SHREE KRISHNA</nav>
