@@ -2,10 +2,7 @@
     <head>
         mxni.pvtt
     </head>
-    body{
-    background-image:url(https://plus.google.com/101978623215684492145/posts/2P3uPSKc9ZA)}
-    
-
+    <body style="background:url('pot.gif');background-report: no-repeat;"> 
         <h1>ISCKON ABIDS HYDERABAD</h1>
         <h2>Hare krishna:</h2>
         <nav>JAI SHREE KRISHNA</nav>
