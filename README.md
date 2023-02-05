@@ -4,10 +4,16 @@
     <meta name="viewport" content="width=device-width, intial-scale=1.0">
     <title> Home</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+    h1 {
+    color:blue;
+    text-align: center;
+    }
+    </style>
 
 
 <body>
-     <h1 style="color:blue;>BASIC PAGE</h1>
+     <h1> BASIC PAGE </h1>
     <div class="profile-box">
         <a href="https://www.instagram.com/sushanth_bathini/" class="a-foto"> <img class="foto-button" src="pok.jpg" style="border-radius: 9px;"></a>
         <a href="https://www.instagram.com/qb_________________/" class="a-foto"> <img class="foto-button" src="qb.jpg" style="border-radius: 9px;"></a>
