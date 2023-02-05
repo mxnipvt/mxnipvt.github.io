@@ -2,8 +2,9 @@
     <head>
         mxni.pvtt
     </head>
-    <body style="background:url('pot.gif');"
-          background-size: cover;>
+    body{
+    background-image:url(https://plus.google.com/101978623215684492145/posts/2P3uPSKc9ZA)}
+    
 
         <h1>ISCKON ABIDS HYDERABAD</h1>
         <h2>Hare krishna:</h2>
