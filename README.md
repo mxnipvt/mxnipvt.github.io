@@ -2,7 +2,7 @@
     <head>
         mxni.pvtt
     </head>
-    <body style="background:url('pot.gif'); background-position:center; background-repeat:no-repeat ; background-attachment: fixed; background-size: cover ;"> 
+    <body style="background:url('MAGIC.jpg'); background-position:center; background-repeat:no-repeat ; background-attachment: fixed; background-size: cover ;"> 
         <h1>ISCKON ABIDS HYDERABAD</h1>
         <h2>Hare krishna:</h2>
         <nav>JAI SHREE KRISHNA</nav>
